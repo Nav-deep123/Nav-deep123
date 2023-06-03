@@ -2,7 +2,7 @@
 
 <br />
 
-hi, i'm Navdeep Kaushish, I'm a passionate data engineer with expertise in building scalable and efficient data infrastructure. I love to play around data and produce wonderful insights using various data analytics and visualization. 
+hi, i'm Navdeep Kaushish, I'm a passionate data engineer with expertise in building scalable and efficient data infrastructure. I love to play around data and produce wonderful insights using various data analytics and visualization tools. 
 
 ### 🔧 Skills
 
