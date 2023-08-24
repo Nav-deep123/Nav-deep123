@@ -8,7 +8,7 @@ hi, i'm Navdeep Kaushish, I'm a passionate data engineer with expertise in build
 
 - Data Engineering: SQL, ETL/ELT, Data Modeling.
 - Programming Languages: Python, javascript
-- Data Visualization platform: Microsoft Power BI
+- Data Visualization platform: Microsoft Power BI, grafana
 
 ### 🌱 Education
 
